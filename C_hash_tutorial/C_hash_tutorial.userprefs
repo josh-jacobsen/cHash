@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="C_hash_tutorial/C_hash_tutorial.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="C_hash_tutorial/Program.cs">
+    <Files>
+      <File FileName="C_hash_tutorial/Program.cs" Line="8" Column="4" />
+      <File FileName="C_hash_tutorial/MyPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.C__hash__tutorial PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

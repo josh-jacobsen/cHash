@@ -1,0 +1,6 @@
+/Users/josh/Work/cHash/demo_app/demo_app/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josh/Work/cHash/demo_app/demo_app/obj/x86/Debug/demo_app.gtk-gui.gui.stetic
+/Users/josh/Work/cHash/demo_app/demo_app/bin/Debug/demo_app.exe.mdb
+/Users/josh/Work/cHash/demo_app/demo_app/bin/Debug/demo_app.exe
+/Users/josh/Work/cHash/demo_app/demo_app/obj/x86/Debug/demo_app.exe
+/Users/josh/Work/cHash/demo_app/demo_app/obj/x86/Debug/demo_app.exe.mdb
